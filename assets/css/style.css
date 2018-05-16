@@ -225,7 +225,6 @@ body {
 @media screen and (max-width: 768px) {
   body {
     background-color: lightsteelblue;
-    sidebar: floatright
   }
 
   /* The wrapper's width will be 600px */
